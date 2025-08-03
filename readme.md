@@ -1,10 +1,10 @@
 windows:
 ```sh
- C:\Users\Daniel\PROYECTOS\Dropbox
+python pesos_directorio.py  C:\Users\Daniel\Dropbox
 ```
 linux:
 ```sh
-/home/daniel/PROYECTOS/Dropbox
+python pesos_directorio.py /home/daniel/PROYECTOS/Dropbox
 ```
 resultados:
 ```txt
